@@ -45,6 +45,12 @@
                         title: 'MDN Web Docs',
                         description: 'My go-to resource for JavaScript documentation.',
                         link: 'https://vuejs.org'
+                    },
+                    {
+                        id: 'rbson',
+                        title: 'My website',
+                        description: 'One day i\'ll work and finish my website',
+                        link: 'https://vuejs.org'
                     }
                 ]
             }
